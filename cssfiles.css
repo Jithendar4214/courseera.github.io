@@ -1,1 +1,26 @@
 
+       body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .food-div {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 10px;
+            display: inline-block;
+        }
+
+        #chicken-div {
+            background-color: #ffd700; /* gold */
+        }
+
+        #beef-div {
+            background-color: #8b4513; /* saddlebrown */
+            color: #fff;
+        }
+
+        #sushi-div {
+            background-color: #4caf50; /* green */
+            color: #fff;
+        }
